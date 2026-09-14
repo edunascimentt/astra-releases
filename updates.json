@@ -1,9 +1,9 @@
 {
   "stable": {
-    "version": "0.1.1",
-    "url": "https://github.com/edunascimentt/astra-releases/releases/download/v0.1.1/astra-0.1.1.zip",
-    "sha256": "92680d4c7f93b6d863aaee815d48d666618072018006e59403c7c18701e65f44",
-    "publishedAt": "2026-09-14T12:45:25.943Z",
-    "notes": "v0.1.1"
+    "version": "0.1.2",
+    "url": "https://github.com/edunascimentt/astra-releases/releases/download/v0.1.2/astra-0.1.2.zip",
+    "sha256": "8a4d443e14c7771746451ca62978084ac23d685a2e39c44f4d1a4a08ef58e7af",
+    "publishedAt": "2026-09-14T13:04:58.328Z",
+    "notes": "v0.1.2"
   }
 }
